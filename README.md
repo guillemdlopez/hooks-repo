@@ -1,4 +1,4 @@
-# Notes 🤓📝
+# Hooks repository 🤓📝
 
 This is a Custom Hooks repository for common usage hooks. It includes:
 
